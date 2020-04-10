@@ -1,2 +1,1 @@
-# ee-boy
-My first repository on GitHub
+# HELLO, KISKA
